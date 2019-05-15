@@ -2227,12 +2227,23 @@ ul {
 }
 
 .single-education:hover .education-content h6 {
-    color: #1dbe6f;
+    color: #000080;
     transition: all .5s;
 }
 
 .single-education:hover .date span {
-    color: #1dbe6f;
+    color: #000080;
+    background: #f7f7f7;
+    transition: all .5s;
+}
+
+.single-education1:hover .education-content h6 {
+    color: #7a0019;
+    transition: all .5s;
+}
+
+.single-education1:hover .date span {
+    color: #7a0019;
     background: #f7f7f7;
     transition: all .5s;
 }
